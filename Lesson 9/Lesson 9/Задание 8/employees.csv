@@ -1,5 +1,0 @@
-height,name,languages,car,weight,birthday
-175,John Smith,"['C++', 'Python']",True,76.5,02.10.1990
-197,Alexey Alexeev,"['Pascal', 'Delphi']",False,101.2,05.06.1986
-165,Maria Ivanova,"['C#', 'C++', 'C']",True,56.1,28.08.1998
-195,Алексей Белоглазов,C++,True,59,22.01.1997
